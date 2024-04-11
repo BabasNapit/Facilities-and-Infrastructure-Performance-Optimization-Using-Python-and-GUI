@@ -1,0 +1,8 @@
+Nama	: Babas
+NIM	: 14
+Prodi	: te
+Alat	:
+- Gitar
+Waktu	:
+In	: 2022-06-16
+Out	: 2022-06-17
